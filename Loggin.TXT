@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Đây là file loggin master lần 2
+Đây là file loggin cho master lần 2 
+>>>>>>> Side
